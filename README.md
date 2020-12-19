@@ -1,2 +1,2 @@
 # boboH5orPcFramework
-a H5 Framework which only uses the oldest technology 
+使用请看test.js文件夹，其他都不重要。
